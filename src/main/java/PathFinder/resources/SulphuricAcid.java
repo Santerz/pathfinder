@@ -12,6 +12,6 @@ import PathFinder.model.BaseResource;
 public class SulphuricAcid
     extends BaseResource {
     public SulphuricAcid() {
-        super("Sulphuric Acid", "Sulphuric Acid", 1.0F, new byte[0]);
+        super("Sulphuric Acid", "A very powerfull acid that is used in other recipes", 1.5F, new byte[0]);
     }
 }
